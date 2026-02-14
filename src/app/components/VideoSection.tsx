@@ -2,6 +2,7 @@ import { Play, Pause } from 'lucide-react';
 import { useState, useRef } from 'react';
 
 const vid2 = "https://github.com/auraluvsu/valentines/releases/download/v0.1/1.fixed.mp4";
+
 interface VideoCardProps {
   title: string;
   description: string;
