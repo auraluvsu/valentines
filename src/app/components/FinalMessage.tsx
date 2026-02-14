@@ -26,7 +26,7 @@ export function FinalMessage() {
 
           <div className="space-y-4 text-gray-800" style={{ fontFamily: 'Inter, sans-serif', lineHeight: '1.8' }}>
             <p className="text-lg">
-              Paragraph here
+            Thank you for being my valentine Ameniye. I know we’ve been through so much in our relationship and its definitely had its ups and downs but theres no one else I would rather go through all of that with. You’re kind, funny, caring, helpful, gorgeous, funny, intelligent, wise beyond your years and literally everything wanted since i was little. You are an amazing and wonderful person and I want nothing more than to spend the rest of my life with you. I love you my diamond
             </p>
           </div>
 
